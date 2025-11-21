@@ -1,7 +1,7 @@
 ﻿Name: Osho Ayomide
 Matric Number: 23CG034142
 
-Live URL: https://llm-qa-osarenkhoe-23cg034140.onrender.com/
+Live URL: https://llm-qa-osho-23cg034142.onrender.com
 GitHub Repository: https://github.com/Dre-coder/LLM_QA_Osho_23CG034142
 
 Instructions:
